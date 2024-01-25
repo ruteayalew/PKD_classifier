@@ -1,0 +1,127 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:Comm:handle_msg[e17fc665-a38b-4e01-9fa2-f6da06a870e9]({'header': {'date': datetime.datetime(2023, 11, 5, 23, 24, 40, 477000, tzinfo=tzutc()), 'msg_id': 'fadf6641-5763-46e7-b215-380eded629b0', 'msg_type': 'comm_msg', 'session': '366bc004-12c0-450c-958b-11a158852274', 'username': '', 'version': '5.2'}, 'msg_id': 'fadf6641-5763-46e7-b215-380eded629b0', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'e17fc665-a38b-4e01-9fa2-f6da06a870e9', 'data': {'method': 'request_states'}}, 'buffers': []})
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:Comm:handle_msg[5aa201da-433c-4506-a54d-01a6cc1cc66a]({'header': {'date': datetime.datetime(2023, 11, 6, 0, 49, 46, 643000, tzinfo=tzutc()), 'msg_id': 'bcd7e22f-740d-47cd-b058-774b4ec36cf0', 'msg_type': 'comm_msg', 'session': 'e6c28396-798a-4d63-a044-7d573dc96a6e', 'username': '', 'version': '5.2'}, 'msg_id': 'bcd7e22f-740d-47cd-b058-774b4ec36cf0', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '5aa201da-433c-4506-a54d-01a6cc1cc66a', 'data': {'method': 'request_states'}}, 'buffers': []})
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:Comm:handle_msg[0bf8aaf6-edb1-4100-a6f0-af4ce2e773ea]({'header': {'date': datetime.datetime(2023, 11, 6, 1, 18, 46, 109000, tzinfo=tzutc()), 'msg_id': '3b0f7a3a-497a-4dda-90de-3dca9ebec5a1', 'msg_type': 'comm_msg', 'session': '0bbfe6a5-e9a4-4faf-a8a6-401c88e1668c', 'username': '', 'version': '5.2'}, 'msg_id': '3b0f7a3a-497a-4dda-90de-3dca9ebec5a1', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '0bf8aaf6-edb1-4100-a6f0-af4ce2e773ea', 'data': {'method': 'request_states'}}, 'buffers': []})
+DEBUG:Comm:handle_close[0bf8aaf6-edb1-4100-a6f0-af4ce2e773ea]({'header': {'date': datetime.datetime(2023, 11, 6, 1, 18, 46, 173000, tzinfo=tzutc()), 'msg_id': '6c538f1f-4bce-483b-a1c8-e64bf413186f', 'msg_type': 'comm_close', 'session': '0bbfe6a5-e9a4-4faf-a8a6-401c88e1668c', 'username': '', 'version': '5.2'}, 'msg_id': '6c538f1f-4bce-483b-a1c8-e64bf413186f', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '0bf8aaf6-edb1-4100-a6f0-af4ce2e773ea', 'data': {}}, 'buffers': []})
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:Comm:handle_msg[9711a654-e074-4cf5-b801-cd753ec8de3d]({'header': {'date': datetime.datetime(2023, 11, 6, 3, 4, 21, 571000, tzinfo=tzutc()), 'msg_id': '93cd6f51-3bd0-442d-afdb-d956faa62d41', 'msg_type': 'comm_msg', 'session': '0bbfe6a5-e9a4-4faf-a8a6-401c88e1668c', 'username': '', 'version': '5.2'}, 'msg_id': '93cd6f51-3bd0-442d-afdb-d956faa62d41', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '9711a654-e074-4cf5-b801-cd753ec8de3d', 'data': {'method': 'request_states'}}, 'buffers': []})
+DEBUG:Comm:handle_close[9711a654-e074-4cf5-b801-cd753ec8de3d]({'header': {'date': datetime.datetime(2023, 11, 6, 3, 4, 21, 705000, tzinfo=tzutc()), 'msg_id': '5c1a61d3-0a06-4997-b800-ee2161763073', 'msg_type': 'comm_close', 'session': '0bbfe6a5-e9a4-4faf-a8a6-401c88e1668c', 'username': '', 'version': '5.2'}, 'msg_id': '5c1a61d3-0a06-4997-b800-ee2161763073', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '9711a654-e074-4cf5-b801-cd753ec8de3d', 'data': {}}, 'buffers': []})
+DEBUG:Comm:handle_msg[1f0f87de-0461-42c9-acac-72625cb4c42c]({'header': {'date': datetime.datetime(2023, 11, 6, 3, 5, 21, 29000, tzinfo=tzutc()), 'msg_id': 'e710971f-4633-4f79-9bc6-a4f5e3c5dbdc', 'msg_type': 'comm_msg', 'session': '0bbfe6a5-e9a4-4faf-a8a6-401c88e1668c', 'username': '', 'version': '5.2'}, 'msg_id': 'e710971f-4633-4f79-9bc6-a4f5e3c5dbdc', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '1f0f87de-0461-42c9-acac-72625cb4c42c', 'data': {'method': 'request_states'}}, 'buffers': []})
+DEBUG:Comm:handle_close[1f0f87de-0461-42c9-acac-72625cb4c42c]({'header': {'date': datetime.datetime(2023, 11, 6, 3, 5, 21, 124000, tzinfo=tzutc()), 'msg_id': 'ec28015e-0cd5-4574-a4cc-e680d62ded5b', 'msg_type': 'comm_close', 'session': '0bbfe6a5-e9a4-4faf-a8a6-401c88e1668c', 'username': '', 'version': '5.2'}, 'msg_id': 'ec28015e-0cd5-4574-a4cc-e680d62ded5b', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '1f0f87de-0461-42c9-acac-72625cb4c42c', 'data': {}}, 'buffers': []})
+DEBUG:Comm:handle_msg[73d31b20-995f-4bc8-9a74-64b8d7ab6941]({'header': {'date': datetime.datetime(2023, 11, 6, 5, 1, 17, 619000, tzinfo=tzutc()), 'msg_id': '83bf537f-5bf3-4556-b395-f85cc45a3d82', 'msg_type': 'comm_msg', 'session': '0bbfe6a5-e9a4-4faf-a8a6-401c88e1668c', 'username': '', 'version': '5.2'}, 'msg_id': '83bf537f-5bf3-4556-b395-f85cc45a3d82', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '73d31b20-995f-4bc8-9a74-64b8d7ab6941', 'data': {'method': 'request_states'}}, 'buffers': []})
+DEBUG:Comm:handle_close[73d31b20-995f-4bc8-9a74-64b8d7ab6941]({'header': {'date': datetime.datetime(2023, 11, 6, 5, 1, 17, 686000, tzinfo=tzutc()), 'msg_id': 'd921be96-f21c-463b-9957-872474cec37d', 'msg_type': 'comm_close', 'session': '0bbfe6a5-e9a4-4faf-a8a6-401c88e1668c', 'username': '', 'version': '5.2'}, 'msg_id': 'd921be96-f21c-463b-9957-872474cec37d', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '73d31b20-995f-4bc8-9a74-64b8d7ab6941', 'data': {}}, 'buffers': []})
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:Comm:handle_msg[d8f0b4f4-1a0e-4458-9651-7b5276ab22e2]({'header': {'date': datetime.datetime(2023, 11, 6, 18, 54, 24, 247000, tzinfo=tzutc()), 'msg_id': '5ee71cc4-5a89-4843-bf3b-9d7b1d4371c2', 'msg_type': 'comm_msg', 'session': '8a6a3382-3cc2-4e49-a377-cea56bb2116e', 'username': '', 'version': '5.2'}, 'msg_id': '5ee71cc4-5a89-4843-bf3b-9d7b1d4371c2', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'd8f0b4f4-1a0e-4458-9651-7b5276ab22e2', 'data': {'method': 'request_states'}}, 'buffers': []})
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "GET /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 3406974
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): ftp.ncbi.nlm.nih.gov:443
+DEBUG:urllib3.connectionpool:https://ftp.ncbi.nlm.nih.gov:443 "HEAD /geo/series/GSE185nnn/GSE185948/suppl/GSE185948_metadata_RNA.csv.gz HTTP/1.1" 200 0
+DEBUG:Comm:handle_msg[ebc2b27a-dbd5-422c-9203-59822cb583db]({'header': {'date': datetime.datetime(2023, 11, 13, 3, 16, 56, 250000, tzinfo=tzutc()), 'msg_id': '39a1f0f0-bed6-4f7e-afda-b1240540ff5b', 'msg_type': 'comm_msg', 'session': '66b45d5b-f4c9-4d28-8332-5a0cb4dbaf1b', 'username': '', 'version': '5.2'}, 'msg_id': '39a1f0f0-bed6-4f7e-afda-b1240540ff5b', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'ebc2b27a-dbd5-422c-9203-59822cb583db', 'data': {'method': 'request_states'}}, 'buffers': []})
+DEBUG:Comm:handle_close[ebc2b27a-dbd5-422c-9203-59822cb583db]({'header': {'date': datetime.datetime(2023, 11, 13, 3, 16, 56, 861000, tzinfo=tzutc()), 'msg_id': '1ebec52d-04ae-487e-b3d6-f701095aacf3', 'msg_type': 'comm_close', 'session': '66b45d5b-f4c9-4d28-8332-5a0cb4dbaf1b', 'username': '', 'version': '5.2'}, 'msg_id': '1ebec52d-04ae-487e-b3d6-f701095aacf3', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'ebc2b27a-dbd5-422c-9203-59822cb583db', 'data': {}}, 'buffers': []})
+DEBUG:Comm:handle_msg[9e7a0e15-e447-4c13-8338-e65cf1e47cc1]({'header': {'date': datetime.datetime(2023, 11, 13, 4, 12, 36, 925000, tzinfo=tzutc()), 'msg_id': '296ef1b4-9f4a-4576-95cb-17c0ff39faaf', 'msg_type': 'comm_msg', 'session': '66b45d5b-f4c9-4d28-8332-5a0cb4dbaf1b', 'username': '', 'version': '5.2'}, 'msg_id': '296ef1b4-9f4a-4576-95cb-17c0ff39faaf', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '9e7a0e15-e447-4c13-8338-e65cf1e47cc1', 'data': {'method': 'request_states'}}, 'buffers': []})
+DEBUG:Comm:handle_close[9e7a0e15-e447-4c13-8338-e65cf1e47cc1]({'header': {'date': datetime.datetime(2023, 11, 13, 4, 12, 37, 572000, tzinfo=tzutc()), 'msg_id': '84ac3bc1-a389-4980-9b2b-273df5699744', 'msg_type': 'comm_close', 'session': '66b45d5b-f4c9-4d28-8332-5a0cb4dbaf1b', 'username': '', 'version': '5.2'}, 'msg_id': '84ac3bc1-a389-4980-9b2b-273df5699744', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '9e7a0e15-e447-4c13-8338-e65cf1e47cc1', 'data': {}}, 'buffers': []})
+DEBUG:Comm:handle_msg[db5b5c34-cbe6-4e01-91a1-36a83bb1d594]({'header': {'date': datetime.datetime(2023, 11, 13, 4, 33, 0, 492000, tzinfo=tzutc()), 'msg_id': '16fdb933-b7a6-42de-a2e4-831ddb52b10c', 'msg_type': 'comm_msg', 'session': '66b45d5b-f4c9-4d28-8332-5a0cb4dbaf1b', 'username': '', 'version': '5.2'}, 'msg_id': '16fdb933-b7a6-42de-a2e4-831ddb52b10c', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'db5b5c34-cbe6-4e01-91a1-36a83bb1d594', 'data': {'method': 'request_states'}}, 'buffers': []})
+DEBUG:Comm:handle_close[db5b5c34-cbe6-4e01-91a1-36a83bb1d594]({'header': {'date': datetime.datetime(2023, 11, 13, 4, 33, 0, 675000, tzinfo=tzutc()), 'msg_id': '672fc961-db98-451a-b78a-563a8826e0df', 'msg_type': 'comm_close', 'session': '66b45d5b-f4c9-4d28-8332-5a0cb4dbaf1b', 'username': '', 'version': '5.2'}, 'msg_id': '672fc961-db98-451a-b78a-563a8826e0df', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'db5b5c34-cbe6-4e01-91a1-36a83bb1d594', 'data': {}}, 'buffers': []})
+DEBUG:Comm:handle_msg[0763731c-4ac8-4e27-bb3c-45ac3b827864]({'header': {'date': datetime.datetime(2023, 11, 13, 13, 4, 44, 372000, tzinfo=tzutc()), 'msg_id': '7f195d91-4369-46ab-baca-109be5708f33', 'msg_type': 'comm_msg', 'session': '66b45d5b-f4c9-4d28-8332-5a0cb4dbaf1b', 'username': '', 'version': '5.2'}, 'msg_id': '7f195d91-4369-46ab-baca-109be5708f33', 'msg_type': 'comm_msg', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '0763731c-4ac8-4e27-bb3c-45ac3b827864', 'data': {'method': 'request_states'}}, 'buffers': []})
+DEBUG:Comm:handle_close[0763731c-4ac8-4e27-bb3c-45ac3b827864]({'header': {'date': datetime.datetime(2023, 11, 13, 13, 4, 44, 638000, tzinfo=tzutc()), 'msg_id': 'cf484ff9-8ce3-4fd7-a856-825b375088eb', 'msg_type': 'comm_close', 'session': '66b45d5b-f4c9-4d28-8332-5a0cb4dbaf1b', 'username': '', 'version': '5.2'}, 'msg_id': 'cf484ff9-8ce3-4fd7-a856-825b375088eb', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '0763731c-4ac8-4e27-bb3c-45ac3b827864', 'data': {}}, 'buffers': []})
